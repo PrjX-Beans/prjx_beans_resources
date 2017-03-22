@@ -1,0 +1,1 @@
+# prjx_beans_resources
